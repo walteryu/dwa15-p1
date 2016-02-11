@@ -9,10 +9,10 @@ A proof-of-concept landing page demonstrating that system setup and git workflow
 In addition to placeholders for future projects, my LinkedIn and technical blog links are included in the last section.
 
 ## Demo
-[Demo on YouTube]()
+[Demo on YouTube](https://youtu.be/Clgxj92zntk)
 
 ## Details for teaching team
-No login required for static landing page.
+YouTube video is submitting using personal project account (StormSavvy), which contains my other coding demos.
 
 P1 example is referenced for styling only, no code from example was used in this problem set solution.
 
